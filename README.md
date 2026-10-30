@@ -1,8 +1,12 @@
 # AGV Path Planning in Mixed Reality
 
-University team project, 2022. Republished from the team's original repository: https://github.com/alexmolera/AGV_PathPlanning_Final_MR. All commits there were made from a single account (alexmolera).
+University team project, 2022-2023, written up as a bachelor thesis (Universidad de Alicante and University of Skövde). Co-developed with a teammate and presented individually at the University of Alicante; at Skövde it was a two-person project with equal shares. Republished from the team's original repository: https://github.com/alexmolera/AGV_PathPlanning_Final_MR. All commits there were made from a single account (alexmolera).
 
-<!-- DEMO VIDEO: pending from owner -->
+![Demo: placing obstacles with hand gestures](docs/media/demo.gif)
+
+Short excerpt of the project's presentation video: obstacle definition with hand tracking.
+
+Thesis: [University of Alicante repository (RUA)](https://rua.ua.es/dspace/handle/10045/135221).
 
 > **This project will not open fully as published.** Third-party plugins, fonts, models, textures and sprites have been removed (see [Dependencies not included](#dependencies-not-included)). Scripts will not compile and scenes will show missing references until those dependencies are restored.
 
@@ -88,7 +92,7 @@ Packages, ProjectSettings            Unity configuration
 
 ## Team and credits
 
-Developed by Alejandro Rubio ([@alejandrorubioo](https://github.com/alejandrorubioo)) and [@alexmolera](https://github.com/alexmolera), with the work split evenly. All commits in the original repository were made from a single account (alexmolera).
+Team project; I worked across the whole implementation. Co-developed by Alejandro Rubio ([@alejandrorubioo](https://github.com/alejandrorubioo)) and [@alexmolera](https://github.com/alexmolera), with the work split evenly; presented individually at the University of Alicante. All commits in the original repository were made from a single account (alexmolera).
 
 The project settings name it "ASSAR Thesis", referring to the [ASSAR Industrial Innovation Arena](https://assarinnovation.se/en/) in Skövde, Sweden. This repository is not published by or on behalf of ASSAR.
 
